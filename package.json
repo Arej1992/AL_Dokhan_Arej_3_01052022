@@ -1,0 +1,27 @@
+{
+  "name": "al_dokhan_arej_3_06042022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch ./sass/main.scss:css/style.css",
+    "sass": "sass --watch ./sass/mediaquery.scss/style.css",
+    "sass": "sass --watch ./sass/variables.scss/style.css"
+
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arej1992/AL_Dokhan_Arej_3_06042022.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arej1992/AL_Dokhan_Arej_3_06042022/issues"
+  },
+  "homepage": "https://github.com/Arej1992/AL_Dokhan_Arej_3_06042022#readme",
+  "dependencies": {
+    "sass": "^1.50.1"
+  }
+}
