@@ -172,7 +172,7 @@ section .under_title {
   background-color: #eee;
 }
 .multi-card .card_name {
-  padding: 10px 0 0px 35px;
+  padding: 50px 0 0px 35px;
 }
 .multi-card .cards {
   display: -webkit-box;
@@ -418,8 +418,8 @@ header .menu_image img {
   overflow: hidden;
   margin: 20px auto 10px;
   opacity: 0;
-  -webkit-animation: opacityTop 1.5s 0.7s linear forwards;
-          animation: opacityTop 1.5s 0.7s linear forwards;
+  -webkit-animation: opacityTop 1.5s  linear forwards;
+          animation: opacityTop 1.5s  linear forwards;
 }
 .all_menu .menu .menu_link .container {
   display: -webkit-box;
